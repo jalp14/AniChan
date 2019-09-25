@@ -13,6 +13,12 @@
 		A23DD233233B9759002CC802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A23DD232233B9759002CC802 /* Assets.xcassets */; };
 		A23DD236233B9759002CC802 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A23DD235233B9759002CC802 /* Preview Assets.xcassets */; };
 		A23DD239233B9759002CC802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A23DD237233B9759002CC802 /* LaunchScreen.storyboard */; };
+		A23DD241233B9838002CC802 /* JSONParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23DD240233B9838002CC802 /* JSONParser.swift */; };
+		A23DD243233B9905002CC802 /* Anime.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23DD242233B9905002CC802 /* Anime.swift */; };
+		A23DD245233B9A8F002CC802 /* AnimeShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23DD244233B9A8F002CC802 /* AnimeShow.swift */; };
+		A23DD247233B9AE5002CC802 /* anidesc.json in Resources */ = {isa = PBXBuildFile; fileRef = A23DD246233B9AE5002CC802 /* anidesc.json */; };
+		A272DA2C233BA236008E66F2 /* AnimeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A272DA2B233BA236008E66F2 /* AnimeRow.swift */; };
+		A272DA2E233BA87A008E66F2 /* AnimeShowDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A272DA2D233BA87A008E66F2 /* AnimeShowDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		A23DD235233B9759002CC802 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A23DD238233B9759002CC802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A23DD23A233B9759002CC802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A23DD240233B9838002CC802 /* JSONParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONParser.swift; sourceTree = "<group>"; };
+		A23DD242233B9905002CC802 /* Anime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anime.swift; sourceTree = "<group>"; };
+		A23DD244233B9A8F002CC802 /* AnimeShow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeShow.swift; sourceTree = "<group>"; };
+		A23DD246233B9AE5002CC802 /* anidesc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = anidesc.json; sourceTree = "<group>"; };
+		A272DA2B233BA236008E66F2 /* AnimeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeRow.swift; sourceTree = "<group>"; };
+		A272DA2D233BA87A008E66F2 /* AnimeShowDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeShowDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +71,15 @@
 				A23DD22C233B9753002CC802 /* AppDelegate.swift */,
 				A23DD22E233B9753002CC802 /* SceneDelegate.swift */,
 				A23DD230233B9753002CC802 /* ContentView.swift */,
+				A23DD240233B9838002CC802 /* JSONParser.swift */,
+				A23DD242233B9905002CC802 /* Anime.swift */,
+				A23DD244233B9A8F002CC802 /* AnimeShow.swift */,
+				A272DA2B233BA236008E66F2 /* AnimeRow.swift */,
+				A272DA2D233BA87A008E66F2 /* AnimeShowDetail.swift */,
 				A23DD232233B9759002CC802 /* Assets.xcassets */,
 				A23DD237233B9759002CC802 /* LaunchScreen.storyboard */,
 				A23DD23A233B9759002CC802 /* Info.plist */,
+				A23DD246233B9AE5002CC802 /* anidesc.json */,
 				A23DD234233B9759002CC802 /* Preview Content */,
 			);
 			path = AniChan;
@@ -136,6 +154,7 @@
 				A23DD239233B9759002CC802 /* LaunchScreen.storyboard in Resources */,
 				A23DD236233B9759002CC802 /* Preview Assets.xcassets in Resources */,
 				A23DD233233B9759002CC802 /* Assets.xcassets in Resources */,
+				A23DD247233B9AE5002CC802 /* anidesc.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,8 +165,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A272DA2C233BA236008E66F2 /* AnimeRow.swift in Sources */,
 				A23DD22D233B9753002CC802 /* AppDelegate.swift in Sources */,
+				A23DD243233B9905002CC802 /* Anime.swift in Sources */,
 				A23DD22F233B9753002CC802 /* SceneDelegate.swift in Sources */,
+				A23DD245233B9A8F002CC802 /* AnimeShow.swift in Sources */,
+				A23DD241233B9838002CC802 /* JSONParser.swift in Sources */,
+				A272DA2E233BA87A008E66F2 /* AnimeShowDetail.swift in Sources */,
 				A23DD231233B9753002CC802 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

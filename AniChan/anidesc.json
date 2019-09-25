@@ -1,0 +1,79 @@
+[
+    {
+        "id":1001,
+        "name":"Full Metal Alchemist Brotherhood",
+        "imageName":"fmab",
+        "description":"Alchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called automail and become a state alchemist, the Fullmetal Alchemist.",
+        "category":"top"
+    },
+    {
+        "id":1002,
+        "name":"Death Note",
+        "imageName":"deathnote",
+        "description":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.",
+        "category":"top"
+    },
+    {
+        "id":1003,
+        "name":"Attack on Titan",
+        "imageName":"aot",
+        "description":"Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+        "category":"top"
+    },
+    {
+        "id":1004,
+        "name":"Steins Gate",
+        "imageName":"stgate",
+        "description":"The self-proclaimed mad scientist Rintarou Okabe rents out a room in a rickety old building in Akihabara, where he indulges himself in his hobby of inventing prospective future gadgets with fellow lab members: Mayuri Shiina, his air-headed childhood friend, and Hashida Itaru, a perverted hacker nicknamed Daru. The three pass the time by tinkering with their most promising contraption yet, a machine dubbed the Phone Microwave, which performs the strange function of morphing bananas into piles of green gel.",
+        "category":"top"
+    },
+    {
+        "id":1005,
+        "name":"Hunter X Hunter",
+        "imageName":"hxh",
+        "description":"Hunters are specialized in a wide variety of fields, ranging from treasure hunting to cooking. They have access to otherwise unavailable funds and information that allow them to pursue their dreams and interests. However, being a hunter is a special privilege, only attained by taking a deadly exam with an extremely low success rate.",
+        "category":"top"
+    },
+    {
+        "id":1006,
+        "name":"Tokyo Ghoul",
+        "imageName":"tkghoul",
+        "description":"Tokyo has become a cruel and merciless city—a place where vicious creatures called ghouls exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society.",
+        "category":"all"
+    },
+    {
+      "id":1007,
+        "name":"Your Lie in April",
+        "imageName":"yourlie",
+        "description":"At a very young age, Kousei Arima was strictly taught how to play the piano and meticulously follow the score by his mother, to the point where he dominated every competition he entered with ease. He earned the title of Human Metronome for performing almost perfectly. Every musician of his age looked up to him. However, after his mother suddenly dies, he became tone-deaf due to the shock and then disappeared, never to be seen onstage since.",
+        "category":"all"
+    },
+    {
+      "id":1008,
+        "name":"Your Name",
+        "imageName":"yourname",
+        "description":"The story is set one month after a comet has fallen for the first time in a thousand years in Japan. Mitsuha, a high school girl living in the countryside, wants to live in the city because she is tired of life in the country. Then, there's Taki. He's a high school student living in Tokyo with his friends while working as a part-timer at an Italian restaurant. He also has a strong interest in fine arts involving architecture. One day, Mitsuha dreams of herself as a young man. On the other hand, Taki also has a dream where he is a female student attending high school in the countryside. What's the secret behind their dreams?",
+        "category":"all"
+    },
+    {
+      "id":1009,
+        "name":"Haikyuu",
+        "imageName":"haikyuu",
+        "description":"Inspired after watching a volleyball ace nicknamed Little Giant in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the King of the Court, Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.",
+        "category":"all"
+    },
+    {
+      "id":1010,
+        "name":"Another",
+        "imageName":"another",
+        "description":"In the spring of 1998, Koichi Sakakibara transfers to Yomiyama North Middle School. In class, he develops a sense of unease as he notices that the people around him act like they're walking on eggshells, and students and teachers alike seem frightened. As a chain of horrific deaths begin to unfold around him, he comes to discover that he has been placed in the cursed Class 3 in which the student body head count is always one more than expected. Class 3 is haunted by a vengeful spirit responsible for gruesome deaths in an effort to satisfy its spite. To stop the vicious cycle gripping his new school, Koichi decides to get to the bottom of the curse, but is he prepared for the horror that lies ahead...?",
+        "category":"all"
+    },
+    {
+      "id":1011,
+        "name":"Demon Slayer",
+        "imageName":"demonslayer",
+        "description":"Since ancient times, rumors have abounded of man-eating demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a demon slayer also roams the night, hunting down these bloodthirsty demons. For young Tanjirou, these rumors will soon to become his harsh reality...",
+        "category":"all"
+    }
+]
